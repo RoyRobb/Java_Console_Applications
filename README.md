@@ -12,7 +12,7 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Linked List:** Console applicaion that implements a Linked List data structure.
 
-**Reverse a String:** Write a program that reverses a given string.
+✔ **Reverse a String:** Console application that reverses a given string.
 
 **Word Count:** Write a program that counts the number of words in a given string.
 
