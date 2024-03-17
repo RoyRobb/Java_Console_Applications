@@ -1,6 +1,6 @@
 # Java_Console_Applications
 
-Different console applications, that I have/are developing to practice Java pl.
+Different console applications, that I have/am developing to practice Java pl.
 
 The list of projects done(✔) or in progress and their respective descriptions:
 
@@ -16,11 +16,11 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Word Counter:** Console application that counts the number of words in a given string.
 
-**Fibonacci Sequence:** Write a program that generates the Fibonacci sequence up to a given number.
+✔ **Fibonacci Sequence:** Console application that generates the Fibonacci sequence up to a given number.
 
 **Sorting Algorithms:** Write a program that implements different sorting algorithms, such as Bubble Sort, Insertion Sort, or Merge Sort.
 
-**Prime Number Generator:** Write a program that generates a list of prime numbers up to a given number.
+✔ **Prime Number Generator:** Write a program that generates a list of prime numbers up to a given number.
 
 **Caesar Cipher:** Write a program that encodes and decodes messages using the Caesar Cipher.
 
