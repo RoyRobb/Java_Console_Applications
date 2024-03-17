@@ -14,7 +14,7 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Reverse a String:** Console application that reverses a given string.
 
-**Word Count:** Write a program that counts the number of words in a given string.
+✔ **Word Counter:** Console application that counts the number of words in a given string.
 
 **Fibonacci Sequence:** Write a program that generates the Fibonacci sequence up to a given number.
 
