@@ -22,7 +22,7 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Prime Number Generator:** Console application that generates a list of prime numbers up to a chosen number.
 
-**Caesar Cipher:** Write a program that encodes and decodes messages using the Caesar Cipher.
+✔ **Caesar Cipher:** Write a program that encodes and decodes messages using the Caesar Cipher.
 
 **Binary Search:** Write a program that performs a binary search on a sorted list of numbers.
 
