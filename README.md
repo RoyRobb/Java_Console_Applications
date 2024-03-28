@@ -18,7 +18,7 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Fibonacci Sequence:** Console application that generates the Fibonacci sequence up to a chosen number.
 
-**Sorting Algorithms:** Write a program that implements different sorting algorithms, such as Bubble Sort, Insertion Sort, or Merge Sort.
+✔ **Sorting Algorithms:** Write a program that implements different sorting algorithms, such as Bubble Sort, Insertion Sort, Merge Sort.
 
 ✔ **Prime Number Generator:** Console application that generates a list of prime numbers up to a chosen number.
 
