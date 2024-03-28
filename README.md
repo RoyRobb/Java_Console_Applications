@@ -24,7 +24,7 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Caesar Cipher:** Write a program that encodes and decodes messages using the Caesar Cipher.
 
-**Binary Search:** Write a program that performs a binary search on a sorted list of numbers.
+✔ **Binary Search:** Write a program that performs a binary search on a sorted list of numbers.
 
 Other ideas for projects:
 Library management application;
