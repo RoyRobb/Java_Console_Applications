@@ -18,18 +18,18 @@ The list of projects done(✔) or in progress and their respective descriptions:
 
 ✔ **Fibonacci Sequence:** Console application that generates the Fibonacci sequence up to a chosen number.
 
-✔ **Sorting Algorithms:** Write a program that implements different sorting algorithms, such as Bubble Sort, Insertion Sort, Merge Sort.
+✔ **Quick Sort Algorithm:** Console application that sorts array using Quick Sort Algorithm.
+
+✔ **Bubble Sort Algorithm:** Console application that sorts array using Bubble Sort Algorithm.
+
+✔ **Insertion Sort Algorithm:** Console application that sorts array using Insertion Sort Algorithm.
+
+✔ **Merge Sort Algorithm:** Console application that sorts array using Merge Sort Algorithm.
 
 ✔ **Prime Number Generator:** Console application that generates a list of prime numbers up to a chosen number.
 
-✔ **Caesar Cipher:** Write a program that encodes and decodes messages using the Caesar Cipher.
+✔ **Caesar Cipher:** Console application that encodes and decodes messages using the Caesar Cipher.
 
-✔ **Binary Search:** Write a program that performs a binary search on a sorted list of numbers.
+✔ **Binary Search:** Console application that performs a binary search on a sorted list of numbers.
 
-Other ideas for projects:
-Library management application;
-Plagiarism checker;
-Minigames (Sudoku, TikTakToe, Battleships);
-Minigame website (using REACT);
-AI Backtracking (different algorithms);
-Chess AI Bot.
+**Library management Application:** 
